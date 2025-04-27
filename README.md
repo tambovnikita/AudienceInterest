@@ -88,5 +88,5 @@
 
 Помимо стандартного запуска с помощью Python (`main.py`), предусмотрены запуски на Windows (`AudienceInterest.exe`) и на MacOS (`AudienceInterest.app`).
 
-Windows - [Скачать]()  
-MacOS - [Скачать]()
+Windows - [Скачать](https://github.com/tambovnikita/AudienceInterest/releases/download/v1.0.0/AudienceInterest_Windows.zip)  
+MacOS - [Скачать](https://github.com/tambovnikita/AudienceInterest/releases/download/v1.0.0/AudienceInterest_MacOS.zip)
