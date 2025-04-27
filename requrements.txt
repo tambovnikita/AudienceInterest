@@ -1,0 +1,7 @@
+PyQt6
+ultralytics
+opencv-python
+numpy
+dlib
+imutils
+scipy
